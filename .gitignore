@@ -1,0 +1,29 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+venv/
+env/
+
+# Ignore local config
+*.env
+config/local_settings.py
+
+# Ignore build artifacts
+dist/
+build/
+*.log
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+chat_history
+data
+vector_stores
+rough.ipynb
