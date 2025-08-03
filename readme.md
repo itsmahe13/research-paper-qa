@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/research-paper-qa/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/research-paper-qa/discussions)
-- **Email**: your.email@example.com
+- **Email**: itsmahendran13@gmail.com
 
 ---
 
